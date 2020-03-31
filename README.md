@@ -2,8 +2,7 @@
 ## Reproductor de Música (Procesamiento de sonido) - Ismael Aarab Umpiérrez
 
 ### Introducción
-Realizar una propuesta de prototipo integrando al menos gráficos y síntesis de sonido. Se
-acepta la modificación de alguna de las prácticas precedentes.
+Realizar una propuesta de prototipo integrando al menos gráficos y síntesis de sonido.
 
 ![](reproductor.gif)
 
