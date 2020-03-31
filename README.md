@@ -20,7 +20,7 @@ Realizar una propuesta de prototipo integrando al menos gráficos y síntesis de
 
 ### Instrucciones
   - **↑ o ↓** - Baja o sube el volumen 1 unidad.
-  - **← o →** - Baja o sube el volumen 1 unidad.
+  - **← o →** - Baja o sube el volumen 10 unidades.
   - (Extra) **R** - Invierte el color de la imagen de fondo.
   
   
